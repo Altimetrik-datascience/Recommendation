@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+.myclass1
+{
+	font-size:150%;
+	font-family:"Times New Roman", Times, serif;
+	color:#F00;
+}
+
+.myclass2
+{
+	font-size:150%;
+	font-family:"Times New Roman", Times, serif;
+}
+.myclass4
+{
+	font-size:18px;
+	font-weight:400;	
+	font-family: "Comic Sans MS", cursive;
+	color:#999;
+}
+.myclass5
+{
+	font-size:18px;
+	font-weight:400;	
+	font-family:Arial, Helvetica, sans-serif;
+	color:black;
+        font: justify;
+}
+.myclass6
+{
+	font-size:30px;
+	font-weight:400;	
+	font-family: "Comic Sans MS", cursive;
+	color:#000;
+}
+.myclass7
+{
+	color: #F00;
+	font-family:Georgia, "Times New Roman", Times, serif;	
+}
+.myclass8
+{
+	opacity:0.8;
+	background-color:#FFF;
+        size:90%;
+	border-bottom-right-radius:100px;
+	border-style:groove;
+	border-top-left-radius:100px;
+}
+.myclass9
+{
+	font-size:20px;
+	font-weight:400;	
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+}
+.myclass10
+{
+    background-image: url(../../assets/images/mac3.jpg); 
+}
